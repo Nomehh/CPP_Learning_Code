@@ -7,3 +7,5 @@ chap-02/*
 
 chap-02/4-modules/*
 !chap-02/4-modules/*.cpp
+!chap-02/4-modules/*.hpp
+!chap-02/4-modules/*.h
